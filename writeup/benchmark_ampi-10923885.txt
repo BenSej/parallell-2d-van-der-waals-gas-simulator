@@ -1,0 +1,13 @@
+BEGIN 100
+Doing aMPI CPUS = 1 
+Simulation_Duration 140.963 s
+Doing aMPI CPUS = 4 
+Simulation_Duration 67.9824 s
+Doing aMPI CPUS = 9 
+Simulation_Duration 35.6559 s
+Doing aMPI CPUS = 16 
+Simulation_Duration 21.5268 s
+Doing aMPI CPUS = 25 
+Simulation_Duration 16.33 s
+Doing aMPI CPUS = 36 
+Simulation_Duration 14.0195 s

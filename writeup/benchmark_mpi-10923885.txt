@@ -1,0 +1,13 @@
+BEGIN _VARIES_
+Doing MPI CPUS = 1 
+Simulation_Duration 129.311 s
+Doing MPI CPUS = 4 
+Simulation_Duration 53.1217 s
+Doing MPI CPUS = 9 
+Simulation_Duration 20.2883 s
+Doing MPI CPUS = 16 
+Simulation_Duration 10.1195 s
+Doing MPI CPUS = 25 
+Simulation_Duration 6.66036 s
+Doing MPI CPUS = 36 
+Simulation_Duration 4.35182 s
